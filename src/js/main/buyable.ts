@@ -5,3 +5,4 @@ export default interface IBuyable {
     price: number,
     pages: number,
 }
+d

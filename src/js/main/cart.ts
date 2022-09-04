@@ -63,3 +63,5 @@ export default class Cart {
         })
     }
 }
+
+]d
